@@ -6,6 +6,7 @@ It uses [GCC](https://hub.docker.com/_/gcc/) as base image, and contains:
 - [GDB](https://www.gnu.org/software/gdb/)
 - [Cppcheck](https://github.com/danmar/cppcheck)
 - [CppUnit](https://www.freedesktop.org/wiki/Software/cppunit/)
+- [Valgrind](http://valgrind.org/)
 
 ## Tags
 

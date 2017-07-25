@@ -5,5 +5,6 @@ RUN set -ex; \
     apt-get install -y --no-install-recommends \
             gdb \
             cppcheck \
-            libcppunit-dev; \
+            libcppunit-dev \
+			valgrind; \
     rm -rf /var/lib/apt/lists/*
