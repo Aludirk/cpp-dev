@@ -1,12 +1,13 @@
 # C++ Development Docker Image
 
-This is the Git repo of the Docker image for C++ development.  See the [Docker Hub page](https://hub.docker.com/r/aludirk/cpp-dev) for more details.
+This is the Git repo of the Docker image for C++ development and CI.  See the [Docker Hub page](https://hub.docker.com/r/aludirk/cpp-dev) for more details.
 
 It uses [GCC](https://hub.docker.com/_/gcc/) as base image, and contains:
 - [GDB](https://www.gnu.org/software/gdb/)
 - [Cppcheck](https://github.com/danmar/cppcheck)
 - [CppUnit](https://www.freedesktop.org/wiki/Software/cppunit/)
 - [Valgrind](http://valgrind.org/)
+- [Doxygen 1.8.13](http://www.stack.nl/~dimitri/doxygen/index.html)
 
 ## Tags
 
